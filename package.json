@@ -18,7 +18,7 @@
     "url": "https://github.com/RitonX/TailwindCss-Mini-Project/issues"
   },
   "homepage": "https://github.com/RitonX/TailwindCss-Mini-Project#readme",
-  "dependencies": {
+  "devDependencies": {
     "tailwindcss": "^3.1.8"
   }
 }
