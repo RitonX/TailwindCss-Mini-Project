@@ -3,3 +3,7 @@
     height: 800px;
     background-position:top;
 }
+
+.banner-green{
+    background: linear-gradient(315deg,#D1FAE5,#10B981 74%);
+}
